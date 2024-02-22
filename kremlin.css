@@ -1,0 +1,54 @@
+h1{
+    text-decoration: overline #453C67;
+    text-transform: uppercase;
+    text-shadow: white  2px 2px 8px;
+    text-align: center;
+}
+body{
+    background-color: #FAEAB1 ;
+}
+.img1{
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+    width: 1450px;
+    height: 450px;
+    
+    
+}
+body p a{
+    color: #C58940;
+    font-weight: bold;
+    font-size: larger;
+
+}
+.container1 img{
+    float: left;
+    width: 50%;
+    height: 50%;
+}
+.container1Text {
+    margin: 0px 20px;
+    text-align: center;
+}
+.container2 div img{
+    float: right;
+    height:350px;
+    width: 200px;
+}
+.container2{
+    display: flex;
+    margin: 20px;
+}
+.container2Text{
+    text-align: center;
+    float: right;
+}
+.container2Image{
+    clear: both;
+    float: right;
+} 
+.container3{
+    text-align: left;
+}
+
